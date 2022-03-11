@@ -1,5 +1,5 @@
 <h2> Felipe Lorenzi 👋 </h2>
-Data science 👀
+Data science and Cognitive Science 👀
 
 4th year at <a href='ucsd.edu'>UC San Diego</a>. 
 
