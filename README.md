@@ -5,7 +5,7 @@ Recent graduate from <a href='https://www.ucsd.edu'>UC San Diego</a>.
 
 You can reach me through my email lorenzilipe@gmail.com or by messaging me on <a href='https://www.linkedin.com/in/felipe-lorenzi/'>my linkedin profile</a>.
 
-Take a deeper look into my experience on my website: <a href='https://www.felipelorenzi.com'>felipelorenzi.com</a>
+Find more details about my professional experience on my website: <a href='https://www.felipelorenzi.com'>felipelorenzi.com</a>
 
 <!---
 lorenzilipe/lorenzilipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
