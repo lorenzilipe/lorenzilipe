@@ -3,7 +3,7 @@ Data Science and Cognitive Science 👀
 
 Recent graduate from <a href='https://www.ucsd.edu'>UC San Diego</a>. 
 
-You can reach me through my email lorenzilipe@gmail.com or by messaging me on <a href='https://www.linkedin.com/in/felipe-lorenzi/'>my linkedin profile</a>.
+You can reach me through my email lorenzifelipe7@gmail.com or by messaging me on <a href='https://www.linkedin.com/in/felipe-lorenzi/'>my linkedin profile</a>.
 
 Find more details about my projects at <a href='https://www.felipelorenzi.com'>felipelorenzi.com</a>
 
